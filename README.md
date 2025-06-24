@@ -2,12 +2,6 @@
 
 ## Take Home Assignment 2
 
-**Student Name**: [Your Name]  
-**Student ID**: [Your ID]  
-**Date**: June 24, 2025
-
----
-
 ## Assignment Overview
 
 This assignment implements two fundamental image processing techniques:
